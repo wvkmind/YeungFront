@@ -11,5 +11,5 @@ Ext.define("YeungFront.Config", {
 
 	CLIENT_CONTROL_API_URL: Ext.manifest['env'] === 'production',
 	BASE_API_HOST: "http://wvkmind.top",
-	BASE_API_PATH: "/"
+	BASE_API_PATH: "/rails_api"
 });
